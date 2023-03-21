@@ -55,7 +55,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -63,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Hello Microverse <a name="about-project"></a>
 
 
-Hello Microverse is a project that dispaly "Hello Microverse", it's created using HTML and CSS.
+Hello Microverse is a project that dispaly "Hello Microverse" on web, it's created using HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 1- HTML.
@@ -138,13 +137,17 @@ Run this command:
   cd my-project
   npm install
 ```
---->
+
 
 ### Usage
 
 To run the project, execute the following command:
 ```sh
 Open index.html
+```
+or 
+```sh
+explorer.exe index.html
 ```
 
 ### Run tests
@@ -154,8 +157,6 @@ Open index.html
 
 
 ### Deployment
-
-You can deploy this project using:
 
 > Coming soon
 
@@ -178,7 +179,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Add header
+- [ ] Add Navigation bar
 - [ ] Add Footer
 - [ ] Add more styling
 
@@ -200,7 +201,7 @@ Feel free to check the [issues page](../../issues/).
 
 
 
-If you like this project just give it a star.
+If you like this project give it a ⭐.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
